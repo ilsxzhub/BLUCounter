@@ -1,0 +1,69 @@
+#counterLabel {
+	font-size: 10em;
+	color: rgb(0, 16, 242);
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#btnContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.buttons {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(27, 212, 215, 0.488);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+#reset {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(27, 212, 215, 0.488);
+    color: rgb(255, 5, 5);
+    border-radius: 5px;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+#BLUCounter {
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: rgb(0, 117, 242);
+    margin-top: 20px;
+}
+#Timer {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(27, 212, 215, 0.488);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: background-color 0.25s;
+    display: block;
+    margin: 20px auto 0 auto;
+}
+#Stop {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: background-color 0.25s;
+    display: block;
+    margin: 20px auto 0 auto;
+}
