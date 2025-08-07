@@ -71,11 +71,12 @@
 .labels {
     width: 200px;
     height: 100px;
-    background-color: rgba(27, 212, 215, 0.488);
-    color: rgb(255, 255, 255);
+    background-color: rgba(0, 117, 242)
+    color: rgb(0, 117, 242);
     border-radius: 5px;
     font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
     transition: background-color 0.25s;
 }
+
